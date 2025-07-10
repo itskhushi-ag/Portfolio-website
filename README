@@ -1,0 +1,33 @@
+# Personal Portfolio Website 🌐
+
+This is a **responsive personal portfolio website** created using **pure HTML and CSS**, with no JavaScript or frameworks involved.
+
+### 📌 Features:
+- Responsive layout for desktop and mobile screens.
+- Custom navigation bar.
+- Animated social icons and hover effects.
+- Highlighted sections with personal introduction and goals.
+
+### 🎯 Purpose:
+This project was created as a **learning experience** while following a YouTube tutorial to explore HTML and CSS deeply. It helped me understand the fundamentals of layout structuring, media queries, and CSS animations.
+
+> ⚠️ Note: This project is built strictly for educational purposes and does not include any licensing. Credit goes to the original YouTuber for the design inspiration.
+
+### 🔗 Deployed Link:
+[View Live Portfolio](https://yourusername.github.io/portfolio-website)
+
+---
+
+### 📁 Folder Structure:
+portfolio-website/
+├── index.html
+├── style.css
+├── my pfp2.jpg
+└── README.md
+
+---
+
+### 🙋‍♀️ About Me:
+I'm currently exploring full-stack development, learning the MERN stack. I'm passionate about building clean and efficient user interfaces.
+
+---
